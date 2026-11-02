@@ -1,0 +1,6 @@
+{
+  "name": "SPSB - Dashboard JKR Port Dickson",
+  "description": "Sistem Pemantauan Status Projek (SPSB) Jabatan Kerja Raya (JKR) Daerah Port Dickson merangkumi perolehan, perbelanjaan, dan kemajuan kerja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
